@@ -1,8 +1,8 @@
 {
   "name": "nightwatch-starter",
   "scripts": {
-    "FF": "nightwatch -e firefox",
-    "CH": "nightwatch -e chrome"
+    "firefox": "nightwatch -e firefox",
+    "chrome": "nightwatch -e chrome"
   },
   "devDependencies": {
     "chromedriver": "^80.0.1",
